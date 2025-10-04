@@ -1,6 +1,6 @@
 {
   "name": "sproutkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny worktree CLI for managing git worktrees",
   "main": "index.js",
   "bin": {
@@ -15,8 +15,16 @@
     "cli",
     "tool"
   ],
-  "author": "",
+  "author": "yodart",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yodart/sprout.git"
+  },
+  "homepage": "https://github.com/Yodart/sprout#readme",
+  "bugs": {
+    "url": "https://github.com/Yodart/sprout/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "inquirer": "^8.2.5"
