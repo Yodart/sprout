@@ -5,7 +5,7 @@ A tiny worktree CLI for managing git worktrees efficiently.
 ## Installation
 
 ```bash
-npm install -g sproutkit
+npm install -g @yodart/sproutkit
 ```
 
 ## Tech Stack
