@@ -1,0 +1,28 @@
+{
+  "name": "sproutkit",
+  "version": "1.0.0",
+  "description": "A tiny worktree CLI for managing git worktrees",
+  "main": "index.js",
+  "bin": {
+    "sprout": "./bin/sprout.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "worktree",
+    "cli",
+    "tool"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "preferGlobal": true
+}
