@@ -4,7 +4,14 @@ A tiny worktree CLI for managing git worktrees efficiently.
 
 ## Installation
 
+### From npm registry
 ```bash
+npm install -g @yodart/sproutkit
+```
+
+### From GitHub Packages
+```bash
+npm config set @yodart:registry https://npm.pkg.github.com
 npm install -g @yodart/sproutkit
 ```
 

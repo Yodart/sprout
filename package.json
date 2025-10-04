@@ -1,6 +1,6 @@
 {
   "name": "@yodart/sproutkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny worktree CLI for managing git worktrees",
   "main": "index.js",
   "bin": {
